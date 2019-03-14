@@ -1,0 +1,14 @@
+Package: roxytemp
+Title: Demonstration of Roxygen templating
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alexey",
+           family = "Shiklomanov",
+           role = c("aut", "cre"),
+           email = "alexey.shiklomanov@gmail.com")
+Description: Shows how Roxygen templating works.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
